@@ -36,15 +36,15 @@
 		</div>
 		<div id="infoPopUp">
 			<div class="whatsPopUp">
-				<a href="http://api.whatsapp.com/send?1=pt_BR&phone=5538997432120" target="_blank">
+				<a href="" target="_blank">
 				<img src="CSS/Imagens/ing.jpg">Gabriel</a>
 			</div>
 			<div class="whatsPopUp">
-				<a href="http://api.whatsapp.com/send?1=pt_BR&phone=5511983488606" target="_blank">
+				<a href="" target="_blank">
 				<img src="CSS/Imagens/esp.jpg">Elaine</a>
 			</div>
 			<div class="whatsPopUp">
-				<a href="http://api.whatsapp.com/send?1=pt_BR&phone=5511987511334" target="_blank">
+				<a href="" target="_blank">
 				<img src="CSS/Imagens/bra.jpg">Rubens</a>
 			</div>
 		</div>
